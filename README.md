@@ -7,6 +7,9 @@ This repository contains a Jupyter notebook where we explore the fundamentals of
 ## Contents
 
 - **Sklearn_Session.ipynb**: Jupyter notebook containing detailed explanations, code snippets, and visualizations showcasing our exploration of sklearn basics, preprocessing, and modeling techniques.
+<p align="center">
+  <img src="https://sebastianraschka.com/images/blog/2014/intro_supervised_learning/supervised_learning_flowchart.png" alt="Workflow diagram" width="800">
+</p>
 
 ## Details
 
@@ -19,7 +22,4 @@ This repository contains a Jupyter notebook where we explore the fundamentals of
 
 We're continually updating this repository with insights, solutions, and best practices to enhance your understanding and utilization of sklearn. Stay tuned for more insightful discussions and solutions!
 
-<p align="center">
-  <img src="https://sebastianraschka.com/images/blog/2014/intro_supervised_learning/supervised_learning_flowchart.png" alt="Workflow diagram" width="300">
-</p>
 
