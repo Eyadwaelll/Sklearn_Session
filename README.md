@@ -19,4 +19,4 @@ This repository contains a Jupyter notebook where we explore the fundamentals of
 
 We're continually updating this repository with insights, solutions, and best practices to enhance your understanding and utilization of sklearn. Stay tuned for more insightful discussions and solutions!
 
-!<img src="[https://sebastianraschka.com/images/blog/2014/intro_supervised_learning/supervised_learning_flowchart.png]()" alt="Workflow diagram" width="300">
+<img src="https://sebastianraschka.com/images/blog/2014/intro_supervised_learning/supervised_learning_flowchart.png" alt="Workflow diagram" width="300">
