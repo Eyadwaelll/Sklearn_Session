@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a Jupyter notebook where we explore the fundamentals of the sklearn library, focusing on preprocessing and modeling techniques.
-
+![Sklearn Image](file:///C:/Users/Elsafwa/Desktop/supervised_learning_flowchart.png)
 ## Contents
 
 - **Sklearn_Session.ipynb**: Jupyter notebook containing detailed explanations, code snippets, and visualizations showcasing our exploration of sklearn basics, preprocessing, and modeling techniques.
