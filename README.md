@@ -20,6 +20,6 @@ This repository contains a Jupyter notebook where we explore the fundamentals of
 
 ## Stay Tuned
 
-We're continually updating this repository with insights, solutions, and best practices to enhance your understanding and utilization of sklearn. **Stay tuned for more insightful** discussions and solutions!
+We're continually updating this repository with insights, solutions, and best practices to enhance your understanding and utilization of sklearn. **Stay tuned for more insightful discussions and solutions!**
 
 
