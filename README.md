@@ -1,5 +1,5 @@
 # Sklearn_Session
-
+[Link to session](https://drive.google.com/drive/folders/1uyRJTRmyjRwKJU2_JHdGaIsHJuuIt5BG?usp=drive_link)
 ## Overview
 
 This repository contains a Jupyter notebook where we explore the fundamentals of the **sklearn library**, focusing on preprocessing and modeling techniques.
